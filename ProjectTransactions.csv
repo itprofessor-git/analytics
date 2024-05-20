@@ -1,0 +1,116 @@
+InvoiceNum,Description,Category,InvoiceDate,Hours/Units,Rate,Total
+BERP7480,BigERP Studio annual license,Software,1/1/2022,1,345855,345855
+BERP9324,BigERP Analytics subscription,Software,1/1/2022,1,1450,1450
+BERP4069,BigERP IT Staffing,IT Services,1/1/2022,1,40000,40000
+PME8211,Project Management,PM Services,1/1/2022,56,110,6160
+BERP8821,BigERP Consulting Services,Consulting,1/6/2022,22,215,4730
+INV5982,DBA Contractor,Contracting,1/31/2022,15,90,1350
+INV2277,Programmer,Contracting,1/31/2022,15,75,1125
+BERP1076,BigERP IT Staffing,IT Services,2/1/2022,95,215,20425
+PME3063,Project Management,PM Services,2/1/2022,56,110,6160
+MS536,Azure computing services - January,Infrastructure,2/10/2022,480,15.75,7560
+BERP8845,BigERP Consulting Services,Consulting,2/10/2022,32,215,6880
+INV7686,DBA Contractor,Contracting,2/28/2022,20,90,1800
+INV7296,Programmer,Contracting,2/28/2022,20,75,1500
+BERP6299,BigERP IT Staffing,IT Services,3/1/2022,95,215,20425
+PME9474,Project Management,PM Services,3/1/2022,56,110,6160
+BERP4402,BigERP Consulting Services,Consulting,3/10/2022,12,215,2580
+MS9531,Azure computing services - February,Infrastructure,3/11/2022,475,15.75,7481.25
+INV1142,DBA Contractor,Contracting,3/31/2022,32,90,2880
+INV5774,Programmer,Contracting,3/31/2022,32,75,2400
+BERP4078,BigERP IT Staffing,IT Services,4/1/2022,95,215,20425
+PME5817,Project Management,PM Services,4/1/2022,56,110,6160
+BERP2345,BigERP Consulting Services,Consulting,4/7/2022,67,215,14405
+MS8469,Azure computing services - March,Infrastructure,4/10/2022,560,15.75,8820
+INV2707,DBA Contractor,Contracting,4/30/2022,50,90,4500
+INV1884,Programmer,Contracting,4/30/2022,50,75,3750
+BERP4090,BigERP IT Staffing,IT Services,5/1/2022,95,215,20425
+PME5409,Project Management,PM Services,5/1/2022,56,110,6160
+BERP8653,BigERP Consulting Services,Consulting,5/5/2022,81,215,17415
+MS4762,Azure computing services - April,Infrastructure,5/9/2022,590,15.75,9292.5
+INV8935,DBA Contractor,Contracting,5/31/2022,45,90,4050
+INV7646,Programmer,Contracting,5/31/2022,125,75,9375
+BERP6335,BigERP IT Staffing,IT Services,6/1/2022,95,215,20425
+PME1285,Project Management,PM Services,6/1/2022,56,110,6160
+BERP6336,BigERP Consulting Services,Consulting,6/2/2022,45,215,9675
+MS5506,Azure computing services - May,Infrastructure,6/12/2022,640,15.75,10080
+,Milestone Bonus,Bonus,6/30/2022,16,1200,19200
+INV4480,DBA Contractor,Contracting,6/30/2022,48,90,4320
+INV2363,Programmer,Contracting,6/30/2022,340,75,25500
+BERP9377,BigERP IT Staffing,IT Services,7/1/2022,95,215,20425
+PME1835,Project Management,PM Services,7/1/2022,56,110,6160
+BERP6312,BigERP Consulting Services,Consulting,7/7/2022,62,215,13330
+MS7787,Azure computing services - June,Infrastructure,7/10/2022,680,15.75,10710
+INV8347,DBA Contractor,Contracting,7/31/2022,37,90,3330
+INV9292,Programmer,Contracting,7/31/2022,122,75,9150
+BERP4389,BigERP IT Staffing,IT Services,8/1/2022,95,215,20425
+PME7551,Project Management,PM Services,8/1/2022,56,110,6160
+BERP9945,BigERP Consulting Services,Consulting,8/4/2022,48,215,10320
+MS3759,Azure computing services - July,Infrastructure,8/11/2022,710,15.75,11182.5
+INV9496,DBA Contractor,Contracting,8/31/2022,36,90,3240
+INV7794,Programmer,Contracting,8/31/2022,425,75,31875
+BERP6260,BigERP IT Staffing,IT Services,9/1/2022,95,215,20425
+PME1052,Project Management,PM Services,9/1/2022,56,110,6160
+BERP8059,BigERP Consulting Services,Consulting,9/8/2022,78,215,16770
+MS5466,Azure computing services - August,Infrastructure,9/10/2022,910,15.75,14332.5
+INV4539,DBA Contractor,Contracting,9/30/2022,42,90,3780
+INV7131,Programmer,Contracting,9/30/2022,378,75,28350
+BERP7230,BigERP IT Staffing,IT Services,10/1/2022,95,215,20425
+PME5882,Project Management,PM Services,10/1/2022,56,110,6160
+BERP8128,BigERP Consulting Services,Consulting,10/6/2022,125,215,26875
+MS6428,Azure computing services - September,Infrastructure,10/10/2022,1023,15.75,16112.25
+,Milestone Bonus,Bonus,10/31/2022,25,1200,30000
+INV1026,DBA Contractor,Contracting,10/31/2022,54,90,4860
+INV3989,Programmer,Contracting,10/31/2022,380,75,28500
+BERP8140,BigERP IT Staffing,IT Services,11/1/2022,95,215,20425
+PME6104,Project Management,PM Services,11/1/2022,56,110,6160
+BERP2564,BigERP Consulting Services,Consulting,11/3/2022,164,215,35260
+MS6538,Azure computing services - October,Infrastructure,11/9/2022,1145,15.75,18033.75
+INV6731,DBA Contractor,Contracting,11/30/2022,48,90,4320
+INV7407,Programmer,Contracting,11/30/2022,290,75,21750
+BERP3519,BigERP IT Staffing,IT Services,12/1/2022,95,215,20425
+PME7278,Project Management,PM Services,12/1/2022,56,110,6160
+BERP5696,BigERP Consulting Services,Consulting,12/8/2022,210,215,45150
+MS1522,Azure computing services - November,Infrastructure,12/12/2022,1541,15.75,24270.75
+INV9563,DBA Contractor,Contracting,12/31/2022,51,90,4590
+INV8908,Programmer,Contracting,12/31/2022,310,75,23250
+BERP8156,BigERP Studio annual license,Software,1/1/2023,1,380440,380440
+BERP9394,BigERP Analytics subscription,Software,1/1/2023,1,1595,1595
+BERP3124,BigERP IT Staffing,IT Services,1/1/2023,95,215,20425
+PME6206,Project Management,PM Services,1/1/2023,56,110,6160
+BERP3380,BigERP Consulting Services,Consulting,1/5/2023,143,215,30745
+MS5465,Azure computing services - December,Infrastructure,1/10/2023,1314,15.75,20695.5
+INV4387,DBA Contractor,Contracting,1/31/2023,47,90,4230
+INV7825,Programmer,Contracting,1/31/2023,280,75,21000
+BERP4573,BigERP IT Staffing,IT Services,2/1/2023,95,215,20425
+PME8497,Project Management,PM Services,2/1/2023,56,110,6160
+,Milestone Bonus,Bonus,2/1/2023,32,1200,38400
+BERP9445,BigERP Consulting Services,Consulting,2/2/2023,178,215,38270
+MS4429,Azure computing services - January,Infrastructure,2/11/2023,1475,15.75,23231.25
+INV5105,DBA Contractor,Contracting,2/28/2023,32,90,2880
+INV2933,Programmer,Contracting,2/28/2023,264,75,19800
+BERP6606,BigERP IT Staffing,IT Services,3/1/2023,95,215,20425
+PME7407,Project Management,PM Services,3/1/2023,56,110,6160
+BERP6403,BigERP Consulting Services,Consulting,3/2/2023,112,215,24080
+MS7031,Azure computing services - February,Infrastructure,3/10/2023,1430,15.75,22522.5
+INV5737,DBA Contractor,Contracting,3/31/2023,64,90,5760
+INV5872,Programmer,Contracting,3/31/2023,212,75,15900
+BERP8915,BigERP IT Staffing,IT Services,4/1/2023,95,215,20425
+PME8062,Project Management,PM Services,4/1/2023,56,110,6160
+BERP1113,BigERP Consulting Services,Consulting,4/6/2023,345,215,74175
+MS4908,Azure computing services - March,Infrastructure,4/9/2023,1456,15.75,22932
+,Milestone Bonus,Bonus,4/30/2023,38,1200,45600
+INV1205,DBA Contractor,Contracting,4/30/2023,52,90,4680
+INV7618,Programmer,Contracting,4/30/2023,278,75,20850
+BERP5004,BigERP IT Staffing,IT Services,5/1/2023,95,215,20425
+PME3942,Project Management,PM Services,5/1/2023,56,110,6160
+BERP2732,BigERP Consulting Services,Consulting,5/4/2023,263,215,56545
+MS9059,Azure computing services - April,Infrastructure,5/10/2023,1480,15.75,23310
+INV6531,DBA Contractor,Contracting,5/31/2023,49,90,4410
+INV6156,Programmer,Contracting,5/31/2023,310,75,23250
+BERP2944,BigERP IT Staffing,IT Services,6/1/2023,95,215,20425
+PME2480,Project Management,PM Services,6/1/2023,56,110,6160
+BERP3192,BigERP Consulting Services,Consulting,6/8/2023,312,215,67080
+MS4945,Azure computing services - May,Infrastructure,6/11/2023,1600,15.75,25200
+INV9244,DBA Contractor,Contracting,6/30/2023,50,90,4500
+INV4805,Programmer,Contracting,6/30/2023,294,75,22050
